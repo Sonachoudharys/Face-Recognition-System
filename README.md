@@ -29,5 +29,6 @@ This project performs **real-time face recognition** using the webcam feed. It u
 4. If a match is found, the face is labeled with the person's name (`Sona`).
 5. Non-matching faces are labeled as `Unknown`.
 
-##Install Required Libraries
+##Install Required Libraries:
+
 pip install opencv-python face_recognition
